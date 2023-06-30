@@ -13,7 +13,7 @@ const AboutPage = () => {
             <h1>About Us</h1>
             <img src={image} alt="Band Members" height={200}/>
             <p>
-              Lorem ipsum carrots enhanced rebates.Excellent sayings of a man
+              Lorem ipsum carrots enhanced rebates. Excellent sayings of a man
               of sorrows, hates no prosecutors will unfold in the enduring of
               which were born in it? Often leads smallest mistake some pain main
               responsibilities are to stand for the right builder of pleasure,
