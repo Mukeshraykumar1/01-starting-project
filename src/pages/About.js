@@ -27,7 +27,7 @@ const AboutPage = () => {
               Those are! Will unfold in times of pleasure, this pain will be a
               right enjoyed by corrupt, are accusing him of all pleasures, and
               seek his own, or, to the needs of the agony of the choice. We hate
-              the fellow. Lorem ipsum dolor, sit amet consectetur rebates. The
+              the fellow. Lorem ipsum dolor, sit amet consectetur rebates. The is
               distinction, that arise from or to. The greater, therefore, an
               obstacle to the duties of the debts receives the very great
               importance to us that these are consequent to that question is
