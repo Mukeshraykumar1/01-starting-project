@@ -12,6 +12,7 @@ const Modal = () => {
     useEffect(()=>{
         cartHandler()
     },[])
+    
 
     const cartHandler = async() => {
         setShowCart(!showCart)
