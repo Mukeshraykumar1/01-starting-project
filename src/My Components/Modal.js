@@ -7,6 +7,7 @@ import { useEffect } from 'react'
 const Modal = () => {
     const [showCart, setShowCart] = useState(false);
     const [cartitems, setCartItems] = useState('');
+    
 
     useEffect(()=>{
         cartHandler()
