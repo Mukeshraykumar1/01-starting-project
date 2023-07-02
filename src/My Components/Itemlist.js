@@ -85,7 +85,6 @@ const Itemlist = () => {
         <button onClick={()=>addToCarthandler2(i.name,i.desc,i.price)}>Add +2</button>
         <button onClick={()=>addToCarthandler3(i.name,i.desc,i.price)}>Add +3</button></li>)}
       </ul>
-
     </div>
   )
 }

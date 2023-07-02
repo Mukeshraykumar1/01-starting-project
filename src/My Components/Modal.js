@@ -13,7 +13,6 @@ const Modal = () => {
         cartHandler()
     },[])
     
-
     const cartHandler = async() => {
         setShowCart(!showCart)
 
