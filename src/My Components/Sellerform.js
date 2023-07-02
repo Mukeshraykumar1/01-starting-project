@@ -13,6 +13,7 @@ const Sellerform = () => {
             name:refName.current.value,
             description:refDesc.current.value,
             price:refPrice.current.value
+            
         }
         refName.current.value=''
         refDesc.current.value=''
